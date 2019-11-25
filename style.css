@@ -32,3 +32,16 @@
   text-align: center;
   
   }
+  .text{
+    margin-top: 5%;
+    font-size: 16px;
+    margin-right: 60%;
+    
+  }
+  .layout{
+    display: grid;
+    grid-template-columns:50% 50%; 
+  }
+.Header {
+  margin-top:5%;
+}
