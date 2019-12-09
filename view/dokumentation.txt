@@ -1,0 +1,7 @@
+vad ska användaren testa?
+
+hur ska användaren testa?
+
+vad ska dokumenteras?
+
+test:
